@@ -1,1 +1,1 @@
-![CEO-vs-Employee-salary-](CEO_vs_worker(pay).png)
+![CEO Pay Gap Chart](CEO_vs_worker(pay).png)
