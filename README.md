@@ -1,1 +1,1 @@
-![Dashboard Preview](CEO vs worker(pay).png)
+![Dashboard Preview](CEO_vs_worker(pay).png)
