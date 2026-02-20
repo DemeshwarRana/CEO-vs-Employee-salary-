@@ -1,1 +1,1 @@
-![CEO-vs-Employee-salary-](CEO vs worker(pay))
+![CEO-vs-Employee-salary-](CEO vs worker(pay).png)
