@@ -1,1 +1,1 @@
-![CEO-vs-Employee-salary-](CEO vs worker(pay).png)
+![Dashboard Preview](CEO vs worker(pay).png)
